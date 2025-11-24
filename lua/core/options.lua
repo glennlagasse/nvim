@@ -1,5 +1,7 @@
 -- OPTIONS
 
+vim.opt.winborder = 'rounded'
+
 --line nums
 vim.opt.relativenumber = true
 vim.opt.number = true
